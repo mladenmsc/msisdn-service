@@ -1,3 +1,8 @@
+# INSTALLATION
+Clone repository and run mvn install. Executable JAR file with embeded TOMCAT will be generated in target directory.
+
+By default, it runs on port 4000.
+
 # REST Endpoints
 
 ## Return all mobile numbers from the database
